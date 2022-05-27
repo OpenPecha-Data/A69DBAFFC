@@ -1,0 +1,26 @@
+segment_sources:
+  I44BE42B9:
+    type: origin_type
+    relation: translation
+    language: sa
+  IE4AFDB4A:
+    type: origin_type
+    relation: translation
+    language: zh
+  I717ECEA6:
+    type: origin_type
+    relation: translation
+    language: zh
+  I30A13B01:
+    type: origin_type
+    relation: translation
+    language: bo
+  I1DBF37EB:
+    type: origin_type
+    relation: translation
+    language: bo
+  I5C24C576:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs: {}
